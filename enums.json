@@ -1,0 +1,38 @@
+{
+  "helpsEnum": {
+    "_COMMANDS": 0,
+    "_CHANNELID": 1,
+    "_PONG": 2,
+    "_BONK": 3,
+    "_DONATELINK": 4,
+    "_HELP": 5,
+    "_REVERSE": 6,
+    "_YOURID": 7,
+    "_BOTAUTHOR": 8,
+    "_MEMBERCOUNT": 9,
+    "_YOURDATA": 10,
+    "_SENDTOAUTHOR": 11,
+    "_DELETE": 12,
+    "_JEBAITED": 13
+  },
+  "languageEnum": {
+    "EN": 0,
+    "RU": 1
+  },
+  "datasEnum": {
+    "Username": 0,
+    "Discriminator": 1,
+    "Id": 2,
+    "Avatar": 3,
+    "Wrong": 4
+  },
+  "configLanguageEnum": {
+    "Correct": 0,
+    "Wrong": 1,
+    "WrongRole": 2
+  },
+  "membersEnum": {
+    "Members": 0,
+    "Bots": 1
+  }
+}
